@@ -56,9 +56,10 @@ const Index = () => {
     
     {
       title: "S.P.A.R.K",
-      description: "An AI-driven system digitizes police service records using Azure AI for image detection, bounding boxes, signatures, and stamp mapping, and OpenAI API for text extraction, translation, and classification.It supports dual-pane review, QR-based mobile uploads, and outputs searchable JSON stored in Supabase DB.Successfully live-demoed with real data to top police officials, PRISM, 4Sight.ai, and academic/tech panels.",
+      description: "An AI-driven system digitizes police service records using Azure AI for image detection, bounding boxes, signatures, and stamp mapping, and OpenAI API for text extraction, translation, and classification.It supports dual-pane review, QR-based mobile uploads, and outputs searchable JSON stored in Supabase DB.Successfully live-demoed with real data to top police officials, PRISM, 4Sight.ai, and academic/tech panels. Runner up for this Event and even won the prize money as well.",
       links: [
         { label: "Live Demo", url: "https://spark4apv1.netlify.app/" }
+        { label: "Linkedin Post", url: "https://www.linkedin.com/posts/k-sricharan01_ai-hackathon-ocr-activity-7345734993286963200-Th1V?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkD7PUBkQ6iV5iv35-fezpEtbROzvDB94Y" }
       ],
       tags: ["Documents", "Azure AI", "Image detection", "Text mapping", "Open AI"]
     },
