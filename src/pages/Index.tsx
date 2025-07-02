@@ -197,7 +197,7 @@ const Index = () => {
                 className="w-full sm:w-auto border-2 border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white px-6 sm:px-8 py-3 sm:py-4 text-base sm:text-lg rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105"
                 asChild
               >
-                <a href="https://drive.google.com/file/d/1Y1Rg7aE3MNbDe2ekg2PXapPBu6cDbXwn/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/file/d/1K4ta1A0l0ITbpys2EpdZnIDP9F0Av7P7/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                   <Download className="h-4 w-4 sm:h-5 sm:w-5 mr-2" />
                   Download Resume
                 </a>
