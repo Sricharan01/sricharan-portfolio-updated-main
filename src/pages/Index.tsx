@@ -382,6 +382,10 @@ const Index = () => {
               <CardContent className="space-y-4">
                 <div className="flex items-center gap-3">
                   <Badge className="bg-gradient-to-r from-yellow-500 to-orange-500 text-white flex-shrink-0">🏆</Badge>
+                  <span className="text-sm sm:text-base text-gray-700">Runner up in AI 4 Police Hacakthon</span>
+                </div>
+                <div className="flex items-center gap-3">
+                  <Badge className="bg-gradient-to-r from-yellow-500 to-orange-500 text-white flex-shrink-0">🏆</Badge>
                   <span className="text-sm sm:text-base text-gray-700">Finalist – 100x Engineers Hackathon</span>
                 </div>
                 <div className="flex items-center gap-3">
