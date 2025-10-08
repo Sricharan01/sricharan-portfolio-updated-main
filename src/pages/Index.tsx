@@ -75,7 +75,7 @@ const Index = () => {
       title: "DeepChartify – AI-Powered Research Summarization",
       description: "Finalist at 100x Engineers Hackathon. Built with Llama 3.1 for multi-document summarization. Improved researcher efficiency by 40%",
       links: [
-        { label: "Live Demo", url: "https://deepchartify.netlify.app/" },
+        { label: "Live Demo", url: "https://100xdeepchartify.netlify.app/" },
         { label: "GitHub", url: "#" }
       ],
       tags: ["Llama 3.1", "NLP", "Research", "Hackathon"]
