@@ -256,7 +256,7 @@ const Index = () => {
                     <h3 className="font-semibold text-base sm:text-lg text-gray-800 mb-2">Education</h3>
                     <p className="text-sm sm:text-base text-gray-700">B.Tech in Computer Science</p>
                     <p className="text-sm sm:text-base text-gray-600">BML Munjal University (2023)</p>
-                    {/* <p className="text-sm sm:text-base text-gray-600">CGPA: 7.9</p> */}
+                    
                   </div>
                   <Separator />
                   <div>
